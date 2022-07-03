@@ -46,7 +46,7 @@ body {
    max-width: 100%;
    border: 2px solid gray;
    text-align: center;
-   background-image: url('img/BG_header.jpg');
+   background-image: url('img/BG_header.png');
    background-repeat: no-repeat;
    background-size: cover;
    overflow: hidden;
