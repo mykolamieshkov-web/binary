@@ -46,10 +46,11 @@ body {
    max-width: 100%;
    border: 2px solid gray;
    text-align: center;
-   background-image: url('https://i.pinimg.com/736x/7e/44/d7/7e44d784e358286f8f3f2cc2079189de.jpg');
+   background-image: url('https://images.pexels.com/photos/6893376/pexels-photo-6893376.jpeg?auto=compress&cs=tinysrgb&h=204&fit=crop&w=228&dpr=2');
    background-repeat: no-repeat;
    background-size: cover;
    overflow: hidden;
+   opacity: 0.7;
    
    }
 .logo {
