@@ -46,7 +46,7 @@ body {
    max-width: 100%;
    border: 2px solid white;
    text-align: center;
-   background-image: url('img/1_BG.png');
+   background-image: url('https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cHJvZHVjdGl2aXR5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60');
    background-repeat: no-repeat;
    background-size: cover;
    overflow: hidden;
@@ -279,7 +279,7 @@ input, button, textarea {
   width: 100%;
   max-width: 100%;
   border: 2px solid white;
-  background-image: url('img/2_BG.png');
+  background-image: url('https://images.unsplash.com/photo-1586227740560-8cf2732c1531?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8cHJvZHVjdGl2aXR5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60');
   background-repeat: no-repeat;
   background-size: cover;
   opacity: 0.7;
